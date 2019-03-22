@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<iati-activities version="2.03" generated-datetime="2019-02-12T22:06:55.9246383Z">
+  <iati-activity last-updated-datetime="2019-02-12T22:06:56.7090042Z" xml:lang="en" hierarchy="1" linked-data-uri="awards/Award/44373">
+    <iati-identifier>US-EIN-63-0676451-ifdc-us-REACH</iati-identifier>
+    <reporting-org ref="US-EIN-63-0676451" type="21" secondary-reporter="0">
+      <narrative>International Fertilizer Development Centre</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Resilient Efficient Agribusiness Chains in Uganda (REACH)</narrative>
+    </title>
+    <description type="1">
+      <narrative>The REACH-UGANDA project is an innovative four-year that aims at improving market engagement for 40,000 market-oriented farmers, strengthen household resilience, and deepen availability of agriculture support services for farmers and businesses. The Making Markets Work for the Poor (M4P) methodology has been integrated fully into REACH-UGANDA’s objectives to achieve full engagement with the private sector and sustainably and favourably integrate 40,000 smallholder farmers into commercial supply chains</narrative>
+    </description>
+    <description type="2">
+      <narrative>1. To integrate market-oriented farmers and (farmer-led) agribusiness into the commodity value chain using the pulling power of upstream lead firms or off-takers.
+2. To enhance productivity of market-oriented farmers in the commodity value chains.
+3. To improve availability and uptake of public and private support services related to the core commodity value chains.</narrative>
+    </description>
+    <participating-org role="2" ref="US-EIN-63-0676451" type="21">
+      <narrative>International Fertilizer Development Center</narrative>
+    </participating-org>
+    <activity-status code="2" />
+    <activity-date type="1" iso-date="2016-10-01" />
+    <activity-date type="3" iso-date="2020-09-30" />
+    <contact-info>
+      <organisation>
+        <narrative>International Fertilizer Development Center</narrative>
+      </organisation>
+      <telephone>571-282-5710</telephone>
+      <email>lnagarajan@ifdc.org</email>
+      <website>https://ifdc.org/</website>
+      <mailing-address>
+        <narrative>1050 Connecticut Ave NW, DC, Washington D.C, 20036</narrative>
+      </mailing-address>
+    </contact-info>
+    <activity-scope code="4" />
+    <recipient-country code="UG" />
+    <location ref="800">
+      <name>
+        <narrative>Uganda</narrative>
+      </name>
+      <exactness code="1" />
+      <location-class code="1" />
+    </location>
+    <sector vocabulary="1" code="31120" percentage="50.0000" />
+    <sector vocabulary="1" code="31120" percentage="50.0000" />
+    <policy-marker vocabulary="1" code="4" significance="1" />
+    <policy-marker vocabulary="1" code="1" significance="1" />
+    <policy-marker vocabulary="1" code="7" significance="1" />
+    <policy-marker vocabulary="1" code="3" significance="1" />
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" vocabulary="1" />
+    <default-tied-status code="5" />
+    <capital-spend percentage="60.0000" />
+    <conditions attached="1">
+      <condition type="2">
+        <narrative>agribusiness opportunities to be enabled thru SMEs</narrative>
+      </condition>
+      <condition type="2">
+        <narrative>participation ensure</narrative>
+      </condition>
+      <condition type="2">
+        <narrative>resilience acheived thru GAPs</narrative>
+      </condition>
+      <condition type="2">
+        <narrative>governance thru' farmer's associations and organizations</narrative>
+      </condition>
+    </conditions>
+    <result aggregation-status="true" type="2">
+      <title>
+        <narrative>Resilience and agribusines chains</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative>% farmers selling via FBGs (Rice)</narrative>
+        </title>
+        <description>
+          <narrative>Number of farmers selling via FBG divided by total number of farmers per crop grown</narrative>
+        </description>
+        <reference vocabulary="99" code="REACH-01.1" indicator-uri="rf/indicators/Indicator/90832" />
+        <baseline value="0" year="2017" iso-date="2017-12-31">
+          <location ref="800" />
+        </baseline>
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="40" />
+          <actual value="0">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Higher turnover and  improved efficiencies</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FGs selling through FBGs</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.1.2" indicator-uri="rf/indicators/Indicator/94356" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="1000" />
+          <actual value="126">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative>% farmers selling via FBGs (Rice)</narrative>
+        </title>
+        <description>
+          <narrative>Number of farmers selling via FBG divided by total number of farmers per crop grown</narrative>
+        </description>
+        <reference vocabulary="99" code="REACH-01.1" indicator-uri="rf/indicators/Indicator/90832" />
+        <baseline value="0" year="2017" iso-date="2017-12-31">
+          <location ref="800" />
+        </baseline>
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="40" />
+          <actual value="0">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative>% farmers selling via FBGs (Potato)</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-01.2" indicator-uri="rf/indicators/Indicator/94362" />
+        <baseline value="3" year="2017" iso-date="2017-12-31">
+          <location ref="800" />
+        </baseline>
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="35" />
+          <actual value="3">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative>Total MT of produce sold by FBGs to MSMEs</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.1" indicator-uri="rf/indicators/Indicator/90835" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="36000" />
+          <actual value="439">
+            <location ref="800" />
+            <dimension name="REACH Crop types" value="Rice" />
+          </actual>
+          <actual value="1040">
+            <location ref="800" />
+            <dimension name="REACH Crop types" value="Potato" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># written supply agreements between FBGs and MSMEs</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.1.1" indicator-uri="rf/indicators/Indicator/94355" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="75" />
+          <actual value="8">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs supplying a MSME</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-01" indicator-uri="rf/indicators/Indicator/94353" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="50" />
+          <actual value="6">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>FG registration</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># Farmer Groups (FGs) registered with local authorities</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.1.3" indicator-uri="rf/indicators/Indicator/90846" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="2000" />
+          <actual value="337">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FG members registered (disaggregated by gender and age category)</narrative>
+        </title>
+        <description>
+          <narrative>Number of farmers that are registered within the REACH management information system</narrative>
+        </description>
+        <reference vocabulary="99" code="REACH-1.1.4" indicator-uri="rf/indicators/Indicator/90847" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="40000" />
+          <actual value="4604">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+          <actual value="6723">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+          <actual value="4077">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+          <actual value="2713">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>MSME</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># MSMEs identified and screened though M4P approach</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.2.1" indicator-uri="rf/indicators/Indicator/90848" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="50" />
+          <actual value="27">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># MSMEs have signed a MoU with the project</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.2.2" indicator-uri="rf/indicators/Indicator/90849" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="25" />
+          <actual value="5">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Training </narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># Farmer Business Groups (FBGs) receiving training in group governance and business management</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.3.1" indicator-uri="rf/indicators/Indicator/90850" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="200" />
+          <actual value="142">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FGs recieving training in group governance and business management</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.3.2" indicator-uri="rf/indicators/Indicator/90851" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="2000" />
+          <actual value="154">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Business cases</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># action plans developed and activated with MSMEs</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.4.2" indicator-uri="rf/indicators/Indicator/90855" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="25" />
+          <actual value="5">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># business cases developed and formalized between MSMEs and FBGs</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.5" indicator-uri="rf/indicators/Indicator/90857" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="16" />
+          <actual value="1">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Placements</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># work placements with FBGs and MSMEs (for young graduates)</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-1.7" indicator-uri="rf/indicators/Indicator/90860" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="100" />
+          <actual value="11">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="2">
+      <title>
+        <narrative>Optimal yield</narrative>
+      </title>
+      <indicator measure="2" ascending="1">
+        <title>
+          <narrative>% farmers increase their yields to 2 MT/acre for rice and 5.5 MT/acre for potato</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.1.1" indicator-uri="rf/indicators/Indicator/90837" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="0.5" />
+          <actual value="0.2">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>FaaB and GAP training</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># farmers trained in GAPs (good agric practices)</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.2.1" indicator-uri="rf/indicators/Indicator/90862" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="36000" />
+          <actual value="2478">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+          <actual value="3827">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+          <actual value="3530">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+          <actual value="5332">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="2">
+      <title>
+        <narrative>Resilinece strategies</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative>% farmers have diversified their income (disaggregated by gender and age category)</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.11" indicator-uri="rf/indicators/Indicator/95161" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="70" />
+          <actual value="99">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Resilience training</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># farmers trained in access to finance</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.2.2" indicator-uri="rf/indicators/Indicator/90864" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="36000" />
+          <actual value="0">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+          <actual value="0">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+          <actual value="0">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="Below 35 years" />
+          </actual>
+          <actual value="0">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+            <dimension name="REACH age groups" value="35 years and above" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># farmers trained in income diversification</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.3" indicator-uri="rf/indicators/Indicator/90863" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="36000" />
+          <actual value="3683">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+          </actual>
+          <actual value="5227">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># farmers trained in joint decision-making</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.5" indicator-uri="rf/indicators/Indicator/90865" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="36000" />
+          <actual value="1965">
+            <location ref="800" />
+            <dimension name="Gender" value="Male" />
+          </actual>
+          <actual value="2801">
+            <location ref="800" />
+            <dimension name="Gender" value="Female" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Business plans</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs using business plans</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.3.1" indicator-uri="rf/indicators/Indicator/90869" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="150" />
+          <actual value="27">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FGs using business plans</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.3.2" indicator-uri="rf/indicators/Indicator/90870" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="1350" />
+          <actual value="153">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs trained in business plans</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-2.7" indicator-uri="rf/indicators/Indicator/90867" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="200" />
+          <actual value="118">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Financial literacy</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs received finance training</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.11" indicator-uri="rf/indicators/Indicator/90871" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="180" />
+          <actual value="162">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FGs received finance training</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.1.2" indicator-uri="rf/indicators/Indicator/90872" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="1800" />
+          <actual value="0">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># VSLAs established and trained</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.1.3" indicator-uri="rf/indicators/Indicator/90874" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="1500" />
+          <actual value="706">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Link to finance</narrative>
+      </title>
+      <indicator measure="2" ascending="1">
+        <title>
+          <narrative>% Farmers accessing loans</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.3.2" indicator-uri="rf/indicators/Indicator/90877" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="0.3" />
+          <actual value="0.39">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs accessing loans from financial institutions</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-09" indicator-uri="rf/indicators/Indicator/90840" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="100" />
+          <actual value="23">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FGs accessing loans</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.6" indicator-uri="rf/indicators/Indicator/90876" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="1000" />
+          <actual value="71">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="2">
+      <title>
+        <narrative>Increased use of support services</narrative>
+      </title>
+      <indicator measure="2" ascending="1">
+        <title>
+          <narrative>% farmers using clean seed potato</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.2.1" indicator-uri="rf/indicators/Indicator/90842" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="0.3" />
+          <actual value="0.11">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># MOUs between financial institutions and the project</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.2.3" indicator-uri="rf/indicators/Indicator/90881" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="2" />
+          <actual value="1">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># businesses introducing Dutch potato varieties to Ugandan market</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.4" indicator-uri="rf/indicators/Indicator/90885" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="2" />
+          <actual value="1">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="2">
+      <title>
+        <narrative>Infrastructural development</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># km of roads constructed and rehabilitated between farmers and markets</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.3" indicator-uri="rf/indicators/Indicator/90883" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="25" />
+          <actual value="0">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Production of clean seed</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># new Dutch potato varieties registered</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.14" indicator-uri="rf/indicators/Indicator/90884" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="15" />
+          <actual value="7">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>Investment in mechanisation</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># FBGs investing in mechanized equipment for rice production</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.26" indicator-uri="rf/indicators/Indicator/95164" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="30" />
+          <actual value="10">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+    <result aggregation-status="true" type="1">
+      <title>
+        <narrative>SSPs</narrative>
+      </title>
+      <indicator measure="1" ascending="1">
+        <title>
+          <narrative># youth spray service providers trained</narrative>
+        </title>
+        <reference vocabulary="99" code="REACH-3.7" indicator-uri="rf/indicators/Indicator/90893" />
+        <period>
+          <period-start iso-date="2017-10-01" />
+          <period-end iso-date="2017-12-31" />
+          <target value="100" />
+          <actual value="0">
+            <location ref="800" />
+          </actual>
+        </period>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>
